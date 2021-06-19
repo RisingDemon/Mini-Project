@@ -1,0 +1,10 @@
+	3.Lunges	
+
+	- Perform it for 30sec with alternating legs.
+	- Lunges help in promoting functional movement.
+	- Increases strength in legs and glutes.
+
+	press: -> for next exercise.
+	       <- for previous exercise.
+	       0 for main menu.
+	       Esc to exit.

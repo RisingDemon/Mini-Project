@@ -1,0 +1,9 @@
+	10.Pushups
+
+	- Start in a plank position. core should be tight, shoulders pulled down.
+	- Bend your elbows and begin to lower your body down to the floor. 
+	- When your chest grazes it, extend your elbows and return to the start.
+
+	press: <- for previous exercise.
+	       0 for main menu.
+	       Esc to exit.

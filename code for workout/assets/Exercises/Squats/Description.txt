@@ -1,0 +1,11 @@
+	1.Squats
+
+	- Keep your feet slightly wider than shoulder-width apart.
+	- Keep your chest and chin up push your hips back and bend your knees.
+	- Ensuring your knees dont bow inward or outward, drop down until your thighs are parallel to the ground.
+	- Pause for one second, then extend your legs and return to the starting position.
+
+	press: -> for next exercise.
+	       <- for previous exercise.
+	       0 for main menu.
+	       Esc to exit.
