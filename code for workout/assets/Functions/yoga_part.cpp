@@ -16,6 +16,7 @@ void yoga_path(string name, int &ch_yoga)
 
     char ch3 = _getch();
 
+    system(kill);
     system("CLS");
     //    cout<<ch3;
     //    system("pause");
@@ -23,22 +24,18 @@ void yoga_path(string name, int &ch_yoga)
     {
     case 77:
         ch_yoga++;
-        system(kill);
         break;
 
     case 75:
         ch_yoga--;
-        system(kill);
         break;
 
     case 48:
-        system(kill);
         system("CLS");
         main();
         break;
 
     case 27:
-        system(kill);
         exit(0);
 
     // default:
