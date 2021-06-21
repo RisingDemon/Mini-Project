@@ -1,7 +1,7 @@
 string path = ".\\assets\\Exercises\\";
 bool gif = true;
 
-int timer(int sec)
+void timer(int sec)
 {
     int minute = 0;
     system("CLS");
@@ -12,7 +12,6 @@ int timer(int sec)
     cout << setfill(' ') << setw(28) << "----------------"
          << "\n\n"
          << endl;
-    return 0;
 }
 
 void exercise_path(string name)
@@ -30,7 +29,7 @@ void exercise_path(string name)
     cout << "\n\t       Spacebar to pause\n\t       " << endl;
 }
 
-int exercise_function()
+void exercise_function()
 {
     string name[] = {
         "Squats",
@@ -45,7 +44,7 @@ int exercise_function()
 
     int sec = second;
     int ch_exercise = 0;
-    
+
     while (true)
     {
     read:
@@ -62,7 +61,7 @@ int exercise_function()
             cout << "\n\nThank you" << endl;
             system("pause");
             system("CLS");
-            return 0;
+            return;
         }
 
         exercise_path(name[ch_exercise]);
@@ -77,9 +76,6 @@ int exercise_function()
                 sec = second;
             }
 
-            if (ch2 != 32)
-                system(kill);
-
             switch (ch2)
             {
             case 32:
@@ -87,17 +83,21 @@ int exercise_function()
                 break;
 
             case 77:
+                system(kill);
                 ch_exercise++;
                 goto read;
 
             case 75:
+                system(kill);
                 ch_exercise--;
                 goto read;
 
             case 27:
+                system(kill);
                 exit(0);
 
             case 48:
+                system(kill);
                 system("CLS");
                 main();
             }
@@ -106,5 +106,4 @@ int exercise_function()
         Sleep(1000);
         sec--;
     }
-    return 0;
 }

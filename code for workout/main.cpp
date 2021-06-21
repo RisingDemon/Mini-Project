@@ -14,7 +14,7 @@ int main();
 bool pushups_gif = true;
 int ch_exercise = 1, sec;
 
-int starting_timer()
+void starting_timer()
 {
     system("CLS");
     cout << "\tLet's begin the cardio session in\n"
@@ -22,7 +22,6 @@ int starting_timer()
     cout << setfill(' ') << setw(28) << "---------" << endl;
     cout << setfill(' ') << setw(20) << "| " << sec << "  sec  |" << endl;
     cout << setfill(' ') << setw(28) << "---------" << endl;
-    return 0;
 }
 
 void pushup()

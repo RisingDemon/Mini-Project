@@ -16,30 +16,36 @@ void yoga_path(string name, int &ch_yoga)
 
     char ch3 = _getch();
 
-    system(kill);
+    if (ch3 != 48 && ch3 != 27)
+        ch3 = _getch();
+
     system("CLS");
     //    cout<<ch3;
     //    system("pause");
     switch (ch3)
     {
     case 77:
+        system(kill);
         ch_yoga++;
         break;
 
     case 75:
+        system(kill);
         ch_yoga--;
         break;
 
     case 48:
+        system(kill);
         system("CLS");
         main();
         break;
 
     case 27:
+        system(kill);
         exit(0);
 
-    // default:
-    //     cout << "\n\n\tInvalid Input" << endl;
+    default:
+        cout << "\n\n\tInvalid Input" << endl;
     }
     // }
 }
