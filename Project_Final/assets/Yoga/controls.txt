@@ -1,0 +1,11 @@
+
+
+	press:  -> for next exercise.
+		<- for previous exercise.
+		0 for main menu.
+		Esc to exit.
+
+		s to stop song.
+		p to play song.
+
+

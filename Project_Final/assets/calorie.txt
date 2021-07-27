@@ -1,0 +1,514 @@
+Acai,20
+Aloo Saag,500
+Allo gobi,330
+Apple sauce,67
+Apple,95
+Apricot,17
+Arby’s Roast Beef Classic,360
+Arby’s Roast Beef Max,360
+Arugula,1
+Asian Pear,75
+Asparagus,2
+Aubergine,115
+Avocado,320
+Avocado,320
+BBQ Pizza,314
+BBQ Rib,142
+BBQ Ribs,360
+BLT,593
+Bacon and Eggs, 539
+Baked Beans,244
+Baked Chicken,282
+Baked Potato,161
+Banana,105
+Bean Burrito,380
+Beef Brisket,4308
+Beef Jerky,82
+Beef Pizza,714
+Beef Ribs,536
+Beef Stew,186
+Beef Tenderloin,305
+Beef,407
+Beetroot,35
+Bell Pepper,15
+Ben and Jerry’s,210
+bhakari,315
+Bianca Pizza,460
+Big N’ Tasty,517
+Veg biryani,484
+Nonveg biryani,570
+Black Olives,2
+Black Pudding,101
+Black Rice,323
+Blackberries,62
+Blood Oranges,70
+Blueberries,84
+Boiled Potatoes,118
+Bratwurst,283
+Bread,66
+Brown Bread,24
+Brown Rice,112
+Breadfruit,99
+Broccoli,207
+Brussels Sprouts,8
+Buffalo Chicken Pizza,600
+Burger King Angry Whopper,740
+Burger King Double Whopper with Cheese,994
+Burger King Double Whopper,894
+Burger King Original Chicken Sandwich,659
+Burger King Premium Alaskan Fish Sandwich,591
+Burger King Triple Whopper,1471
+Burger King Whopper Jr.,346
+Burger King Whopper with Cheese,759
+Burger King Whopper,672
+Burrito,326
+Butter Chicken,490
+Butter Pecan Ice Cream,280
+Buttermilk,157
+Cabbage,227
+Calabrese Pizza,254
+California Roll,33
+Calzone,841
+Cantaloupe Melon,23
+Cantaloupe,23
+Capricciosa Pizza,192
+Capsicum,12
+Carrot,25
+Carvel,449
+Casaba Melon,35
+Cauliflower,3
+Celery,6
+chapati,71
+Chard,9
+cheese,455
+Cheese Pizza,168
+Cheeseburger,410
+Cherimoya,176
+Cherries,4
+Cherry Tomato,20
+Chicken Breast,116
+Chicken Breast,344
+Chicken Caesar Salad,392
+Chicken Drumstick,131
+Chicken Fajita,326
+Chicken Fat,1841
+Chicken Fried Steak,423
+Chicken Giblets,229
+Chicken Gizzards,212
+Chicken Leg,346
+Chicken Liver,73
+Chicken Marsala,2209
+Chicken McNugget,48
+Chicken Meat,344
+Chicken Nuggets,59
+Chicken Parmesan,250
+Chicken Pizza,309
+Chicken Pizziola,451
+Chicken Pot Pie,673
+Chicken Sandwich,410
+Chicken Teriyaki Sandwich,367
+Chicken Thigh,254
+Chicken Wing,77
+Chicken Wings,94
+Chicken,731
+Chicken Korma,870
+Chicken Tikka Masala,680
+Chicory,38
+Chili con Carne,266
+Chimichanga,418/
+Chinese Cabbage,134
+Chives,1
+Chocolate Chip Ice Cream,155
+Chocolate Ice Cream,156
+Chocolate Mousse,455
+Chop Suey,585
+Chuck Steak,859
+Ciao Bella,240
+Clementine,35
+Cobb Salad,632
+Coconut Milk,552
+Coffee,45
+Coffee Creamer,29
+Coffee Ice Cream,170
+Cold Stone Creamery,329
+Collard Greens,12
+Collard Greens,13
+Condensed Milk,982
+Cookie Dough Ice Cream,130
+Corn Dog,438
+Corn,562
+Corned Beef Hash,349,
+Cottage Cheese,206
+Cottage Pie,523
+Courgette,33
+Cranberries,46
+Cream,36
+Creamed Spinach,148
+Creme Fraiche,55
+Croquettes,175
+Crunchie McFlurry,318
+Cubed Steak,328
+Cucumber,66
+Cucumber Raita,100
+Curd,206
+Curly Fries,398
+Currants,63
+Custard Apple,136
+Custard,172
+Cutlet,75
+Dairy Milk McFlurry,340
+Dal,304
+Dates,20
+Deep Dish Pizza,313
+Deviled Eggs,62
+Dim Sum,37
+Dippin Dots,381
+Dominos Philly Cheese Steak Pizza,356
+Dosa,287
+Double Cheeseburger,414
+Double Rainbow,185
+Dragon Fruit,120
+Drumsticks,360
+Duck,2137
+Dumpling Dough,50
+Dumplings,50
+Durian,885
+Egg,78
+Egg Roll,200
+Eggplant,115
+Enchiladas,323
+Endive,87
+Evaporated Milk,340
+Fajita,290
+Falafel,57
+Fennel,73
+Figs,37
+Filet Mignon,278
+Filet-o-Fish,400
+Fish Sandwich,431
+Fish and Chips,585
+Fish and Chips,585
+Flank Steak,365
+Flat Iron Steak,345
+Four Cheese Pizza,250
+French Fingerling Potatoes,112
+French Fries,222
+French Fries,365
+Fried Potatoes,365
+Fried Rice,662
+Fried Shrimp,75
+Fruit,125
+Galia Melon,30
+Garlic,4
+Gherkin,9
+Goat Cheese Pizza,138
+Goat Milk,168
+Gourd,108
+Grapefruit,52
+Grapes,104
+Green Beans,34
+Green Olives,2
+Green Onion,5
+Greengage,2
+Grilled Cheese Sandwich,392
+Grilled Chicken Salad,268
+Grilled Pizza,280
+Ground Beef,172
+Ground Round,278
+Guava,37
+Ham Sandwich,352
+Ham and Cheese Sandwich,352
+Ham,236
+Hamburger,279
+Hawaiian Pizza,154
+Honeydew,45
+Horseradish,7
+Hot Chocolate,237
+Hot Dog,312
+Hummus,435
+idli,58
+Italian BMT,410
+Jackfruit,143
+Jackfruit,143
+Jambalaya,250
+Japanese Sweet Potatoes,113
+Juice,120
+Jujube ,22
+Kale,33
+Kebab,774
+Kefir,135
+Kiwi,112
+Kiwi,112
+Kohlrabi,108
+Korma,330
+Kumquat,13
+Lactose-free Milk,130
+Lasagna,172
+Lasagne,284
+Lassi,150
+Lemon,17
+Lettuce,90
+Lime,20
+Lime Pickle,70
+Lychee,7
+Lychees,7
+Mac and Cheese,699
+Macaroni and Cheese,699
+Mandarin Oranges,48
+Mango,202
+Mango Chutney,60
+Mangosteen,58
+Maracuya,17
+Maraschino Cherriesn,8
+Margherita Pizza,173
+Marrow Dumplings,577
+Mashed Potatoes,174
+Mashed Potatoes,215
+McDonald’s Big Mac,561
+McDonald’s Cheeseburger,300
+McDonald’s Chicken Nuggets,48
+McDonald’s Double Cheeseburger,437
+McDonald’s Filet-o-Fish,391
+McDonald’s McChicken,359
+McDonald’s McDouble,403
+McDonald’s McMuffi Egg, 290
+McDonald’s McRib,451
+McDonald’s Mighty Wings,95
+McRib,451
+Meat Pie,290
+Meatball Sandwich,481
+Meatloaf,721
+Milk,149
+Minneola,70
+Mozzarella Pizza,154
+Mulberries,60
+Mushroom Pizza,611
+Mushrooms,1
+Muskmelon,23
+Mustard Greens,15
+Naan,260
+Nachos with Cheese,575
+Napoli Pizza,248
+Nectarine,66
+New York Strip Steak,426
+New York Style Pizza,174
+Nori,1
+Norland Red Potatoes,121
+Okra,4
+Olives,2
+Olives,2
+Omelette,4
+Onion Rings,25
+Onion Bhaji,190
+Onion,34
+Orange Chicken,420
+Orange,62
+Ostrich,123
+Pad Thai,375
+Paella,200
+Palak Paneer,350
+Papad,45
+Papaya,215
+Paratha ,260
+Parsnips,128
+Passion Fruit,17
+Passion Fruit,17
+Pea Soup,190
+Peach,59
+Peanut Butter Sandwich,200
+Pear,101
+Peas,79
+Peking Duck,401
+Pepper,20
+Pepperoni Pizza,181
+Persimmon,32
+Philly Cheese Steak,300
+Physalis,2
+Pineapple,453
+Pink Grapefruit,52
+Pizza Dough,130
+Pizza Hut Stuffed Crust Pizza,380
+Pizza Hut Supreme Pizza,305
+Pizza Rolls,35
+Pizza,272
+Plain Yogurt,138
+Plantain,218
+Plantains,218
+Plum,30
+Pomegranate,234
+Pomegranate,234
+Pomelo,231
+Pork Baby Back Ribs,148
+Pork Chop,295
+Pork Chops,257
+Pork Country-Style Ribs,148
+Pork Loin,169
+Pork Roast,2108
+Pork Steaks,517
+Pork,363
+Potato Dumpling,50
+Potato Fritter,137
+Potato Gratin,323
+Potato Pancakes,99
+Potato Salad,136
+Potato Salad,358
+Potato Starch,40
+Potato Sticks,94
+Potato Waffles,95
+Potato Wedges,123
+Potato,164
+Potatoes au Gratin,323
+Powdered Milk,337
+Prickly Pear,8
+Provolone,98
+Pulled Pork Sandwich,551
+Pumpkin,51
+Puri,75
+Purple Majesty Potatoes,98
+Quark,319
+Quattro Formaggi Pizza,330
+Quince,52
+Radishes,1
+Raisins,434
+Rambutan,7
+Rambutan,7
+Ramen,380
+Raspberries,64
+Red Cabbage,7
+Red Gold Potatoes,121
+Red Pepper Pizza,165
+Red Potatoes,154
+Reuben Sandwich,641
+Rhubarb,11
+Rice,130
+Brown Rice,112
+Rice Milk,120
+Rice Pudding,133
+Roast Beef,23
+Roast Beef,721
+Roast Dinner,240
+Roast Potatoes,203
+Roquefort,103
+Rosemary Potatoe,161
+Round Steak,430
+Russet Potatoes 1 potato,168
+Russian Banana Potatoes,91
+Rutabaga,147
+Rösti,138
+Salad,100
+Salami Pizza,181
+Samosa,260
+Sapodilla,141
+Sausage Pizza,177
+Sausage Roll,361
+Sausage Rolls,101
+Schnitzel,203
+Seafood Pizza,186
+Semi-skimmed Milk,125
+Semolina Pudding,96
+Shallots,18
+Sheep Cheese,102
+Shepherds Pie,159
+Shrimp Cocktail,130
+Shrimp Pizza,190
+Sicilian Pizza,321
+Skim Milk,86
+Sloppy Joe,101 cal
+Sloppy Joes,397
+Smarties McFlurry,400
+Snickers Ice Cream,180
+Soft Cheese,75
+Soft Serve,191
+Solero,75
+Sour Cream,22
+Soursop Fruit,413
+Soy Milk,109
+Spaghetti Bolognese,374
+Spare Ribs,3332
+Spicy Italian,480
+Spinach Feta Pizza,150
+Spinach Pizza,145
+Spinach,78
+Spring Roll,350
+Spring Rolls,350
+Squash,88
+Standing Rib Roast,376
+Star Fruit,28
+Starfruit,28
+Stilton Cheese,110
+Strawberries,49
+Strawberry Ice Cream,170
+Strawberry Sundae,281
+String Cheese,70
+Stuffed Crust Pizza,380
+Subway Club Sandwich,312
+Sundae,155
+Sweet Potato,105
+Sweet Potato,112
+Sweetened Condensed Milk,982
+Swiss Cheese,95
+T-Bone Steak,580
+Taco,213
+Tamarind,5
+Tamarind,5
+Tandoori Chicken,300
+Tangerine,47
+Tarte Flambée,142
+Tea,45
+Thin Crust Pizza,157
+Tomato,20
+Sambhar,20
+Tortilla Wrap,171
+Tuna Pizza,318
+Tuna,24
+Turkey Breast,1166
+Turkey Hill,190
+Turkey Steak,321
+Turkey Wings,53
+Turkey,29
+Turkey,7205
+Turnip Greens,34
+Turnips,34
+Tzatziki,18
+Vanilla Cone,230
+Vanilla Ice Cream,145
+Vegetable Pizza,399
+Vegetable Biryani,550
+Vegetable Curry,350
+Vegetarian Pizza,399
+Veggie Burger,389
+Veggie Delight,229
+Veggie Patty,963
+Veggie Pizza,263
+Wasabi,184
+Watermelon,86
+Wendy’s Baconator,839
+Wendy’s Jr. Bacon Cheeseburger,420
+Wendy’s Jr. Cheeseburger ,290
+Wendy’s Son of Baconator,700
+Whipped Cream,8
+White Cheddar,532
+White Pizza,571
+White Potatoes,130
+Whole Milk,149
+Whopper,672
+Winter Squash,147
+Wisconsin Cheese,109
+Yams,158
+Yogurt,138
+Yorkshire Pudding,83
+Zucchini,33
+Beer,200
+Soft drink,90
+Pani puri,150
+Ice cream,200
+Pav bhaji,600
+Paneer burji,412
+Falooda,300
+chole bhature,450
+Ras mallai,250
+Jalebi,459
+Halwa,57
+Barfi,103
+Brinjal,6
+Tomatoes,5
